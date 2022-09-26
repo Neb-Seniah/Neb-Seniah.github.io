@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <meta http-equiv="Content-Type"
+	content="text/html; charset=utf-8">
+  <title>AI Sentience - Ben Haines</title></head><body>
+  <div style="width:305px;height:21px;color:#6E466C;background-color:#C26341;border:1px solid #6E5146;">
+    &nbsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/index.html" style="text-decoration:none">Home</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/about-me.html" style="text-decoration:none">About Me</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Essays/E-Home.html" style="text-decoration:none"><b>Essays</b></a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/P-Home.html" style="text-decoration:none">Projects</a></div>
+  <div style="width:305px;height:21px;color:#6E466C;background-color:#C26341;border:1px solid #6E5146;">
+    &nbsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Essays/Fingerprint.html" style="text-decoration:none">Fingerprints</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Essays/AI%20Sentience.html" style="text-decoration:none"><b>AI Sentience</b></a>&emsp;&emsp;<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration:none">Robots</a></div>
+  <link rel="stylesheet" href="../../site.css">
+  <center>
+    <font size = 5>
+      <b>AI Sentience</b><br><br>
+      Benjamin W. Haines<br>
+      Allen ISD Steam Center<br>
+      Advanced Computer Science II<br>
+      Mr. David Ben-Yaakov<br>
+      September 23, 2022
+    </font>
+  </center>
+  <p style="padding: 20px"> <font size = 5> &emsp;<b>Introduction to Sentient AI</b><br>&emsp;Sentient AI is beneifical to the development and efficency of humanity, however it does pose some problems as well. AI benefits us by providing quick solutions to problems, but it also can be used to spread misinformation.<br><br>&emsp;<b>Benefits</b><br>&emsp;Firstly, AI helps us some complex or lengthy problems quickly. Artifical Intelligences, according to Winslet (2022), have the unique abilities to "[learn] skills by pinpointing patterns in vast amounts of digital data" (p. 9). In other words, data provided by humans can be used to teach a neural network, a form of AI, how to solve certain problems. For example, a neural network can be taught to understand addition by providing it multiple addition problems, and once it 'learns' addition, it can complete problems quicker than people can! A similar result could be reached in other mediums, like the written word, images, and even audio, feed data into a machine and it should be able to discern a pattern that humans might not be able to as easily. AI that is sentient would be able to signifcantly speed the process up by teaching itself how to solve problems.<br><br>&emsp;<b>Detriments</b><br>&emsp;However, the advantages of AI analyzing patterns could be considerably outweighed by the risks of enhancing the spread of misinformation through chat bots. Chat bots in themselves are not a new concept; although, should AI become truly sentient, they will become incredibly advanced: they could even pass for real humans! The New York Times talks about how working AI gets turned into "Youtube Recommendations and TikTok 'For You' pages" (p. 8). These two tools are dangerous because human-like chatbots and the recommendation pages for different companies can be used to influence the opinion of the user by hiding opposing arguments, or by creating propaganda to make one side of an issue seem comparatively worse than the other. <br><br>&emsp;<b>Conclusion</b><br>&emsp;In conclusion, while sentient AI can help us solve difficult problems, it can also assist in the spread of propaganda. So the only questions that still remains is: is sentient AI worth the risk?</font></p>
+      <h1><font size = 5><b>References</b></font></h1>
+      <p> <font size = 5>
+	Need (2022). <i>We Need to Talk ABout How Good A.I. Is Getting.</i> New York Times. <br> &emsp;https://www.nytimes.com/2022/08/24/technology/ai-technology-progress.html?searchResultPosition=4<br>
+      <br><br>
+	Winslett, Kate (2022). <i>A.I Is Not Sentient. Why Do People Say It Is?</i> New York Times. <br> &emsp;https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html
+      </font> </p>
+</html>
