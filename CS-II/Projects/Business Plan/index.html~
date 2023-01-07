@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <meta http-equiv="Content-Type"
+	content="text/html; charset=utf-8">
+  <title> ISP Proposal - Ben Haines</title></head>
+<div style="width:305px;height:21px;color:#6E466C;background-color:#C26341;border:1px solid #6E5146;">
+  &nbsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/index.html" style="text-decoration:none">Home</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/about-me.html" style="text-decoration:none">About Me</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Essays/E-Home.html" style="text-decoration:none">Essays</a><b>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/P-Home.html" style="text-decoration:none">Projects</a></b></div>
+<div style="width:380px;height:21px;color:#6E466C;background-color:#C26341;border:1px solid #6E5146;">&nbsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/ISP.html" style="text-decoration:none">ISP (CSI)</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Optimal%20Sort.html" style="text-decoration:none">Optimal Sorting</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Business Plan/index.html" style="text-decoration:none"><b>ISP Proposal</b></a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Business Plan/ISP.html" style="text-decoration:none">ISP</a></div>
+<div style="width:275px;height:21px;color:#6E466C;background-color:#C26341;border:1px solid #6E5146;">&nbsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Business Plan/considered.html" style="text-decoration:none">Conisdered Choices</a>&emsp;&emsp;<a href="https://www.codermerlin.com/users/benjamin-haines/Digital%20Portfolio/CS-II/Projects/Business Plan/index.html" style="text-decoration:none"><b>ISP Proposal</b></a> </div>
+<link rel="stylesheet" href="../../../site.css">
+<b><p style="font-size:40px"><head>The City Planner</head></p></b>
+<b><head>Identity</head></b>
+<p>An application that officals of towns of cities can use to tell the citizen populace about upcoming events.</p>
+<b><head>Problem</head></b>
+<p>City events not being seen by all of the members of a community, and a lack of a connection between all people.</p>
+<b><head>Solution</head></b>
+<p>By creating an interface for local officals to contact interested citizens en masse, we can foster a sense of community in towns or cities.</p>
+<b><head>Target Market</head></b>
+<p>The target audience for this application would be adults and up, as they would be the most interested in attending community events, with a focus on the retired and parents.</p>
+<b><head>Competition</head></b>
+<p>Our main competition for the City Planner is google, as it has a service that allows you to view events from around the city, and when they are occuring. However, their service is rather unfocused, with a limited search function.</p>
+<b><head>Revenue Streams</head></b>
+<p>Citizens will see occasional banner adverts, towns and cities will have to pay to utilize our product (and could pay more to eliminate adverts for citizens)</p>
+<b><head>Marketing Activities</head></b>
+<p>For citizens, marketing will be in the hands of the cities, but we will be using social media and word of mouth to market to the cities. Cities tend to have a social media presence, and also communicate with neighbors. Also, success will mean the potential publication of news articles.</p>
+<b><head>Expenses</head></b>
+<p>Server costs and user profile will be the main expenditures (with push notifications and location services in the future).</p>
+<b><head>Team and Key Roles</head></b>
+<p>Project Lead, 1-2 city planning leads that will be sent to the cities that use our product to help lighten the load, as profits and our reach expand, we will also hire extra developers to make sure the app is up to date. If we ever expand past North America, then we would also need to hire region leads.</p>
+<b><head>Milestones</head></b>
+<p>Finish the product by the beginning of the Summer, long term goal to expand to 2 cities by the beginning of Summer 2027.</p>
+<p><a href="https://docs.google.com/spreadsheets/d/19or8RhCC-lC8-9RSkJdLT4QMZJZswggKogVAKreZ6Dk/edit?usp=sharing" style="text-decoration:none">GANTT Chart</a>
+</html>
