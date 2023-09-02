@@ -1,0 +1,30 @@
+<!doctype html>                                                                                                                                                                                                                                      
+<html lang="en">                                                                                                                                                                                                                                     
+  <meta http-equiv="Content-Type"                                                                                                                                                                                                                    
+        content="text/html; charset=utf-8">                                                                                                                                                                                                          
+  <title> Advanced Sort Algorithms - Ben Haines</title></head>
+<link rel="stylesheet" href="../../site.css">                                                                                                                                                                                                       
+<body>
+  <h2>Sorting Algorithms</h2>
+  <p>A sorting algorithm takes a selection of numbers or words, which are called elements, in a group, which is an array. Sorting algorithms sort an array so that all of their elements are in a certain elements, when learning about different algorithms, the goal will be to sort an array of integers, which are whole numbers, into acending order. When deciding on what sort to use for a situation in the real world, the two most important factors to consider are how long it would take to finish in the worst case, as well how much space it consumes while running. Simple sorting algorithms like bubble sort or selection sort will usually take a while, but more complex sorting algoritms will take less time but be harder to impliment. Time complexity is how long it takes for a program to finish running, while space complexity is how much space it takes up. </p><br>
+  <h2>Merge Sort</h2>
+  <p> Merge sort works by splitting an unsorted array in half until it makes seperates all single elements into smaller sub-arrays. Then it will slowly combine them back together while sorting them, until they form into a fully sorted array, if the number of elements is not a power of two, then some elements will get sorted at different times. <br><br>For example, an array of six will split into two sub-arrays of three, then each sub-array will split into groups of two and one, the two sub-arrays of two elements will split again, creating six sub-arrays of individual elements.<br> [6, 5, 4, 3, 2, 1] -> [6, 5, 4] & [3, 2, 1] -> [6, 5] & [4], & [3, 2] & [1] -> [6] & [5] & [4] & [3] & [2] & [1] <br><br>Then the 6 sub-arrays begin reforming in the order they were split, as well as being sorted.<br> [6] & [5] & [4] & [3] & [2] & [1] -> [5, 6] & [4], & [2, 3] & [1] -> [4, 5, 6] & [1, 2, 3] -> [1, 2, 3, 4, 5, 6]</p><br>
+  <h2>Quicksort</h2>
+  <p>Test </p><br>
+  <h2>Heapsort</h2>
+  <p>Test </p><br>
+  <br>
+  <h2>Time Complexity</h2>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;<h4>Merge Sort</h4> - O(n * log(n)) - The time that Merge Sort takes is consistant, it will always split and resort arrays, even if it is already in the right order.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Quicksort</h4> - O(n * log(n)) - While Quicksort usually takes as much time as Merge Sort and Heapsort, it's time complexity can be up to O(n^2) if the pivot selected happens to be the largest or smallest element, or if all elements have the same value.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Heapsort</h4> - O(n * log(n)) - Takes the same amount of time that Merge Sort does and Quicksort usually does, also does the same thing regardless of what the elements' values are. 
+  </p><br>
+  <h2>Space Complexity</h2>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;<h4>Merge Sort</h4> - O(n) - Because of how many times Merge Sort recursively calls itself, it takes up the most space to use, since it calls itself for every element, it takes up as much space as there are elements in the array.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Quicksort</h4> - O(n) - Quicksort calls itself n times, where n is the number of elements in the array sorted. 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<h4>Heapsort</h4> - O(1) - Heapsort does not recursively call itself, so it's space complexity is the lowest possible.
+  </p> (Note: Space Complexity is mostly based on recursion)
+</body>
+</html>
